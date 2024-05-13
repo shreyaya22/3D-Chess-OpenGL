@@ -14,7 +14,7 @@ To use this repository, you will need:
 ## Usage
 - Clone this repository
 ```
-git clone https://github.com/stevenalbert/3d-chess-opengl
+git clone https://github.com/shreyaya22/Chess-OpenGL
 ```
 - Compile C++ source code files
 - Run the executable
